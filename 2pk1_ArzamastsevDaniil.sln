@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_14", "PZ_14\PZ_14.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_15", "PZ_15\PZ_15.csproj", "{68A1DE09-F15D-4ED1-9CB7-26AB85C7D990}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_16", "PZ_16\PZ_16.csproj", "{B10CD539-A17E-49DA-9700-76CD04A5991B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_16", "PZ_16\PZ_16.csproj", "{B10CD539-A17E-49DA-9700-76CD04A5991B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_19", "PZ_19\PZ_19.csproj", "{5588E645-E381-4CFB-B882-81FBE8B2DD58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{B10CD539-A17E-49DA-9700-76CD04A5991B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B10CD539-A17E-49DA-9700-76CD04A5991B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B10CD539-A17E-49DA-9700-76CD04A5991B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5588E645-E381-4CFB-B882-81FBE8B2DD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5588E645-E381-4CFB-B882-81FBE8B2DD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5588E645-E381-4CFB-B882-81FBE8B2DD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5588E645-E381-4CFB-B882-81FBE8B2DD58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
